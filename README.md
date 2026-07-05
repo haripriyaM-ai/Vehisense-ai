@@ -1,10 +1,10 @@
-# VehiSense AI
+# Transpot AI
 
 Edge AI Diagnostic Assistant for Mechanics — reconstructs vehicle failure progression instead of only reporting fault codes.
 
 ## What it does
 
-VehiSense AI takes vehicle telemetry (speed, brake temperature, brake pressure, RPM) and reconstructs the **story of a fault** — not just the fault code — so mechanics can see how a failure developed and what to inspect first.
+Transpot AI takes vehicle telemetry (speed, brake temperature, brake pressure, RPM) and reconstructs the **story of a fault** — not just the fault code — so mechanics can see how a failure developed and what to inspect first.
 
 ## Demo
 
@@ -22,7 +22,7 @@ streamlit run app.py
 ## Project structure
 
 ```
-VehiSense/
+Transpot/
 ├── app.py              # Streamlit application
 ├── demo_vehicle.csv    # Sample telemetry data
 ├── requirements.txt
